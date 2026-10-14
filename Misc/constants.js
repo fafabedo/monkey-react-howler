@@ -13,3 +13,5 @@ export const MESSAGE_MIN = 10;
 export const MESSAGE_MAX = 4000;
 export const MAX_PER_HOUR = 5;
 export const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+export const FAB_CONSTANT_SAMPLE = 'Raton';
