@@ -1,0 +1,12 @@
+{
+  "name": "monkey-react-howler",
+  "version": "1.0.0",
+  "type": "module",
+  "exports": {
+    "./API/*": "./API/*",
+    "./Misc/*": "./Misc/*",
+    "./Components/*": "./Components/*",
+    "./Styles/*": "./Styles/*"
+  },
+  "license": "UNLICENSED"
+}
